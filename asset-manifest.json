@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eduverse-web/static/css/main.073c9b0a.css",
+    "main.js": "/eduverse-web/static/js/main.57fdeb02.js",
+    "static/js/787.956d055e.chunk.js": "/eduverse-web/static/js/787.956d055e.chunk.js",
+    "static/media/logo.svg": "/eduverse-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eduverse-web/index.html",
+    "main.073c9b0a.css.map": "/eduverse-web/static/css/main.073c9b0a.css.map",
+    "main.57fdeb02.js.map": "/eduverse-web/static/js/main.57fdeb02.js.map",
+    "787.956d055e.chunk.js.map": "/eduverse-web/static/js/787.956d055e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.57fdeb02.js"
+  ]
+}
