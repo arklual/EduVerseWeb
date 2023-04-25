@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/eduverse-web/static/css/main.98533632.css",
-    "main.js": "/eduverse-web/static/js/main.5c139413.js",
+    "main.js": "/eduverse-web/static/js/main.9a6beb32.js",
     "static/js/787.956d055e.chunk.js": "/eduverse-web/static/js/787.956d055e.chunk.js",
     "static/media/logo.jpg": "/eduverse-web/static/media/logo.2969a38a37906472eae6.jpg",
     "index.html": "/eduverse-web/index.html",
     "main.98533632.css.map": "/eduverse-web/static/css/main.98533632.css.map",
-    "main.5c139413.js.map": "/eduverse-web/static/js/main.5c139413.js.map",
+    "main.9a6beb32.js.map": "/eduverse-web/static/js/main.9a6beb32.js.map",
     "787.956d055e.chunk.js.map": "/eduverse-web/static/js/787.956d055e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98533632.css",
-    "static/js/main.5c139413.js"
+    "static/js/main.9a6beb32.js"
   ]
 }
